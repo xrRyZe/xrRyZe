@@ -1,16 +1,17 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>
-- Pursuing a degree in AI and Machine Learning while completing my apprenticeship in Application Development.<br>
-- Exciting projects that combine my academic knowledge with practical skills.<br>
+- ... a top-secret project 🤫🕵️
+- Pursuing a degree in AI and Machine Learning while completing my apprenticeship in Application Development.
+- Exciting projects that combine my academic knowledge with practical skills.
 
 👯 I’m looking to collaborate on<br>
-- Technical and IT projects with fellow enthusiasts.<br>
+- Technical, DIY, IT, and AI projects with fellow enthusiasts.
 
 🌱 I’m currently learning<br>
-- The latest trends and techniques in AI and Machine Learning as well as software engineering<br>
+- The latest trends in AI, Machine Learning, and software engineering. I am also focusing on setting up server infrastructure with Proxmox and exploring various IT architecture domains.
 
 ⚡ Fun fact<br>
-- I love coding and building projects in my free time, often with friends!<br>
+- I love coding and building projects in my free time, often with friends!
 
 
 # 💻 Tech Stack:
