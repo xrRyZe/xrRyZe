@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>
 - ... a top-secret project 🤫🕵️
-- Pursuing a degree in AI and Machine Learning while completing my apprenticeship in Application Development.
-- Exciting projects that combine my academic knowledge with practical skills.
+- ... pursuing a degree in AI and Machine Learning while completing my apprenticeship in Application Development.
+- ... exciting projects that combine my academic knowledge with practical skills.
 
 👯 I’m looking to collaborate on<br>
 - Technical, DIY, IT, and AI projects with fellow enthusiasts.
